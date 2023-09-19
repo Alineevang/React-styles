@@ -1,0 +1,31 @@
+.lista {
+    background-color: #FF6969;
+    padding: 32px;
+    font-size:20px;
+    margin-top: -50px;
+
+
+}
+
+.categoria {
+    display: inline;
+    padding-left: 75px;
+    margin-left: 30px;
+}
+
+
+.linkar {
+    color: white;
+    text-decoration: none;
+    padding: 12px;
+    transition: .8s ease;
+}
+
+.linkar:hover {
+   color: #fffD8C;
+
+}
+
+.image {
+    padding-top: 20px;
+}
